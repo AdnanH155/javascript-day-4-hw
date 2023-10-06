@@ -1,5 +1,6 @@
+// 2
 const add = (x, y) => {
-  return x + y;
+  return x * y;
 };
 
 // 3
